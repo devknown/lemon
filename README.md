@@ -6,6 +6,8 @@ A powerful, modern desktop application for managing and monitoring Huawei LTE ro
 ![Version](https://img.shields.io/badge/version-1.0.0-green)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)
 
+![Lemon](lemon.png)
+
 ---
 
 ## Features
