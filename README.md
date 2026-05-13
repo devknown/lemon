@@ -21,7 +21,6 @@ A powerful, modern desktop application for managing and monitoring Huawei LTE ro
 - Modern UI: Clean, intuitive interface built with React and Tailwind CSS
 - Secure Authentication: Simple and secure login interface for router access
 - System Management: Reboot and manage your device directly from the app
-- Multi-Language Support: Flag icons for international connectivity information
 
 ---
 
