@@ -35,7 +35,7 @@ A powerful, modern desktop application for managing and monitoring Huawei LTE ro
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 ### For Running
 
