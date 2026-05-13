@@ -12,16 +12,16 @@ A powerful, modern desktop application for managing and monitoring Huawei LTE ro
 
 ## Features
 
-- Real-Time Monitoring**: Track your LTE connection status, signal strength, and network information in real-time
-- Speed Testing**: Built-in Cloudflare speed test integration for testing your connection speed
-- Network Management**: Switch between 2G, 3G, 4G, and Auto modes with a single click
-- Performance Analytics**: View detailed charts and statistics about your connection performance
-- SMS Management**: Send and receive SMS directly from the application
-- Device Information**: Display comprehensive device and network band information
-- Modern UI**: Clean, intuitive interface built with React and Tailwind CSS
-- Secure Authentication**: Simple and secure login interface for router access
-- System Management**: Reboot and manage your device directly from the app
-- Multi-Language Support**: Flag icons for international connectivity information
+- Real-Time Monitoring: Track your LTE connection status, signal strength, and network information in real-time
+- Speed Testing: Built-in Cloudflare speed test integration for testing your connection speed
+- Network Management: Switch between 2G, 3G, 4G, and Auto modes with a single click
+- Performance Analytics: View detailed charts and statistics about your connection performance
+- SMS Management: Send and receive SMS directly from the application
+- Device Information: Display comprehensive device and network band information
+- Modern UI: Clean, intuitive interface built with React and Tailwind CSS
+- Secure Authentication: Simple and secure login interface for router access
+- System Management: Reboot and manage your device directly from the app
+- Multi-Language Support: Flag icons for international connectivity information
 
 ---
 
